@@ -1,0 +1,2 @@
+MainPackage=C:\Users\auysa\source\repos\RaspberryPiUniversalApplication\RaspberryPiUniversalApplication\bin\ARM\Debug\RaspberryPiUniversalApplication_1.0.1.0_ARM_Debug.appx
+SymbolPackage=C:\Users\auysa\source\repos\RaspberryPiUniversalApplication\RaspberryPiUniversalApplication\AppPackages\RaspberryPiUniversalApplication_1.0.1.0_Debug_Test\RaspberryPiUniversalApplication_1.0.1.0_ARM_Debug.appxsym
